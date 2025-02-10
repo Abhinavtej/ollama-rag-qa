@@ -84,8 +84,8 @@ ollama_rag_qa/
 ---
 
 ### **🔗 Connect with Me**
-📧 Mail[mailto:abhinavtejreddy.j@gmail.com]  
-🔗 Linkedin[www.linkedin.com/in/abhinavtej]  
-🐙 Github[www.github.com/abhinavtej]  
+📧 [Mail](mailto:abhinavtejreddy.j@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abhinavtej)  
+🐙 [GitHub](https://www.github.com/abhinavtej)  
 
 ---
